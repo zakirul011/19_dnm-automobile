@@ -1,0 +1,157 @@
+
+/* platform */
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Bold.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Bold.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Bold.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Medium.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Medium.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Medium.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Regular.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Regular.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/platform/Platform-Regular.woff2') format('woff2'),
+        url('./../fonts/platform/Platform-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* Objectivity */
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-Regular.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-Regular.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-MediumSlanted.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-MediumSlanted.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-RegularSlanted.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-RegularSlanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-Medium.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-Medium.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-RegularSlanted.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-RegularSlanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Objectivity';
+    src: url('./../fonts/Objectivity/Objectivity-MediumSlanted.woff2') format('woff2'),
+        url('./../fonts/Objectivity/Objectivity-MediumSlanted.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
